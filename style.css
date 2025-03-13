@@ -91,15 +91,15 @@ p {
     border-radius: 5px;
 }
 
-/* 🔹 Efecto al pasar el mouse */
+
 .navbar-nav .nav-link:hover {
-    color: #FFD700; /* Color dorado */
+    color: #FFD700;
     background-color: rgba(255, 255, 255, 0.2);
     font-weight: bold;
 }
 
-/* 🔹 Efecto cuando se presiona (sin afectar la navegación) */
+
 .navbar-nav .nav-link:active {
-    color: #FFA500; /* Naranja */
+    color: #FFA500; 
     background-color: rgba(255, 255, 255, 0.3);
 }
